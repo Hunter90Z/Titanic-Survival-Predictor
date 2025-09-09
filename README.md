@@ -7,8 +7,9 @@ Banner](https://img.shields.io/badge/Project-Titanic%20Survival%20Predictor-blue
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat&logo=tensorflow)
 
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)Welcome
-to the **Titanic Survival Predictor** project! 🌊 This Jupyter
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+Welcome to the **Titanic Survival Predictor** project! 🌊 This Jupyter
 Notebook-based machine learning model dives into the historic Titanic
 dataset to predict passenger survival using neural networks. Whether
 you're a data science newbie or a seasoned sailor in ML waters, this
